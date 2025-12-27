@@ -35,3 +35,4 @@ I specialize in clean architecture, scalable state management, and real-world pr
 
 ## 📬 Contact
 - Email: majdlila777@gmail.com
+- LinkedIn : www.linkedin.com/in/majd-laila
