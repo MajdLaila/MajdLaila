@@ -13,7 +13,7 @@ I specialize in clean architecture, scalable state management, and real-world pr
 - REST APIs (Dio, http)
 - Firebase (Auth, Firestore, FCM)
 - Databases: Hive, SQLite, MySQL
-- Backend: Laravel (Basic)
+- Backend: Laravel & NestJs
 - Git & GitHub
 
 ---
